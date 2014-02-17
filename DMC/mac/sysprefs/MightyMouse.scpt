@@ -10,7 +10,6 @@ tell application "System Events" to tell process "System Preferences"
             set value of slider 1 to 5.0 -- Tracking 6/10
             set value of slider 2 to 8.0 -- Double-Click 9/11
             set value of slider 3 to 3.0 -- Scrolling 4/8
-            set natural_scroll to value of checkbox "Scroll direction: natural" as boolean
             tell group 1
                 -- Set Expose Desktop on side buttons
                 click pop up button 1
