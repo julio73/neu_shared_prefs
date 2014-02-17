@@ -25,5 +25,5 @@ tell application "System Events" to tell process "System Preferences"
 		end if
 	end tell
 end tell
-delay 1
+delay 1 -- Wait a second as for visual feedback
 quit application "System Preferences"
