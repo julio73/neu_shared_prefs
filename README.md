@@ -7,6 +7,8 @@ ___
 
 **Shortcuts**
 * ~~Mighty mouse [app][1]~~ ([alt][3])
+  * Must now request accessibility mod for iMacs (switched to Mavericks)
+  * TODO: Find out origin of unixified window layout
 * LastPass chrome [extension][2]
 * atom.io [editor][4]
 * Adobe Source Code Pro [font][5]
