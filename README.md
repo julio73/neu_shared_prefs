@@ -17,4 +17,4 @@ ___
 [2]: https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd
 [3]: https://github.com/julio73/neu_shared_prefs/blob/master/DMC/mac/sysprefs/MightyMouse.scpt
 [4]: https://atom.io
-[5]: http://sourceforge.net/projects/sourcecodepro.adobe/files/
+[5]: https://github.com/adobe-fonts/source-code-pro
